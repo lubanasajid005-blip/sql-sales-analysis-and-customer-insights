@@ -4,16 +4,13 @@ A SQL Server portfolio project focused on exploring sales performance, product t
 
 > **Project background:** This project was built by following a SQL data analyst portfolio tutorial and practising the techniques demonstrated in it. The repository documents that learning project and the analyses implemented in the SQL script.
 
-## Project objectives
+## Project Objective
 
-The goal is to practise answering practical business questions with SQL, including:
+The objective of this project is to analyse sales data using Microsoft SQL Server and identify useful insights into business performance, product sales, and customer purchasing behaviour.
 
-- How do sales, customer counts, and quantities change over time?
-- How do products perform compared with their own average sales and the previous year?
-- How are products distributed across cost ranges?
-- How can customers be grouped by spending and purchasing history?
-- Which product categories contribute the most to overall sales?
-- Which customer and product metrics are useful in summary reports?
+Through SQL queries, I explored sales trends over time, compared product performance, and segmented customers based on their purchasing history. This project helped me develop practical SQL skills and understand how data analysis can support business decisions.
+
+This was a hands-on learning project based on a SQL tutorial, which I used to practise analytical techniques and strengthen my understanding of working with real-world-style datasets.
 
 ## Tools and technologies
 
